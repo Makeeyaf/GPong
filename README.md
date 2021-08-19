@@ -3,6 +3,8 @@ Pong을 Godot Engine으로 구현한 프로젝트입니다.
 
 Godot Engine을 배우는 목적으로 작성했기 때문에 올바르지 못한 코드나 코딩 스타일을 사용했을 수 있으니 유의하세요.
 
+https://user-images.githubusercontent.com/11623298/129987310-ffa41348-f6c8-465b-bb78-c2171a7f24fa.mov
+
 # 시스템
 ## 승리조건
 - 상대편 벽에 공이 닿으면 1점을 얻습니다.
